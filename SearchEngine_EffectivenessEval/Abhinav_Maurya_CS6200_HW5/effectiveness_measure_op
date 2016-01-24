@@ -1,0 +1,7 @@
+Effectiveness Measure:
+
+P@20 for query "portable operating systems" = 0.2
+P@20 for query "code optimization for space efficiency" = 0.2
+P@20 for query "parallel algorithms" = 0.35
+
+MAP = 0.4332617122206564
