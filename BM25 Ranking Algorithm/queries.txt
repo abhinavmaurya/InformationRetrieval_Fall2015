@@ -1,0 +1,15 @@
+portabl oper system 
+code optim for space effici 
+parallel algorithm 
+distribut comput structur and algorithm 
+appli stochast process 
+perform evalu and model of comput system 
+parallel processor in inform retriev 
+
+
+query	| total# docs_retrieved_using_Lucene-hw4	|	using_our_indexer_with_BM25-hw3  
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+q1	| 		440					| 			871
+q2	| 		1579					|			1632
+q3	| 		272					|			1386
+q4	| 		1529					| 			1540
